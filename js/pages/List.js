@@ -100,7 +100,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed, up to 240fps)
+                    </p>
+                    <p>
+                        In the description of the verification video you need to include: attempts, FPS, CBF on/off, (ID If uploaded)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -122,6 +125,22 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <h3>Terms and Rules</h3>
+                    <p>
+                        In order to send a level to the list, you need to be the verifier of the level.
+                    </p>
+                    <p>
+                        The level must use ALL gamemodes.
+                    </p>
+                    <p>
+                        Level must have at least 10 seconds of gameplay, but it doesnt need to be rated!
+                    </p>
+                    <p>
+                        The placements are set by the list's modaration team.
+                    </p>
+                    <p>
+                        Verifications video proofs have to be uploaded To YouTube
                     </p>
                 </div>
             </div>
