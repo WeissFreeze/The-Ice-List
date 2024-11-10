@@ -137,7 +137,7 @@ export default {
                         Level must have at least 10 seconds of gameplay, but it doesnt need to be rated!
                     </p>
                     <p>
-                        The placements are set by the list's modaration team.
+                        The placements are set by the list's moderation team.
                     </p>
                     <p>
                         Verifications video proofs have to be uploaded To YouTube
