@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "SomeBirb",
+            "link": "https://youtu.be/bosFbog9xGo",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
