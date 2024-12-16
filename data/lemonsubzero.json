@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=XAM_rczzN7E",
     "percentToQualify": 100,
     "password": "Free Copy",
-    "records": []
+    "records": [
+        {
+            "user": "SomeBirb",
+            "link": "https://youtu.be/CaTigALHU5g",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
+    ]
 }
