@@ -1,18 +1,18 @@
 {
     "id": 112218041,
-    "name": "Chilly Cheese",
-    "author": "RyanEpic",
+    "name": "ISpyKe",
+    "author": "aWeissFreeze",
     "creators": [],
-    "verifier": "RyanEpic",
-    "verification": "https://www.youtube.com/watch?v=q9GHDI58Ruw",
-    "percentToQualify": 100,
+    "verifier": "hectoxinho",
+    "verification": "https://youtu.be/V1N9j04POoI",
+    "percentToQualify": 75,
     "password": "Free Copy",
     "records": [
         {
-            "user": "VaniiGD",
-            "link": "https://youtu.be/0toEu35IXjw",
+            "user": "hectoxinho",
+            "link": "https://youtu.be/V1N9j04POoI",
             "percent": 100,
-            "hz": "240"
+            "hz": "120"
         }
     ]
 }
