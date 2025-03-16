@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        
+                {
+            "user": "aWeissFreeze",
+            "link": "https://youtu.be/rmf_Jw23VpQ",
+            "percent": 100,
+            "hz": "(cbf) 60"
+        }
     ]
 }
