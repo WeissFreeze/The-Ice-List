@@ -14,11 +14,17 @@
             "percent": 100,
             "hz": "240"
         },
-                {
+        {
             "user": "aWeissFreeze",
             "link": "https://www.youtube.com/watch?v=fBGepNbkACc",
             "percent": 100,
             "hz": "(CBF) 60"
+        },
+        {
+            "user": "Fluxite",
+            "link": "https://www.youtube.com/watch?v=tg8cq2O4lCc",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
