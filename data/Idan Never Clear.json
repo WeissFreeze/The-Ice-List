@@ -8,6 +8,13 @@
     "percentToQualify": 75,
     "password": "Free Copy",
     "records": [
+      {
+            "user": "IDAN100G",
+            "link": "",
+            "percent": 100,
+            "hz": "165"
+        }
+        {
         
     ]
 }
