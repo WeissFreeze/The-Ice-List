@@ -98,9 +98,25 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Important for submitting new Levels!</h3>
+                    <p>
+                        In order to send a level to the list, you need to be the verifier of the level.
+                    </p>
+                    <p>
+                        The level must use ALL gamemodes.
+                    </p>
+                    <p>
+                        Level must have at least 10 seconds of gameplay, but it doesnt need to be rated!
+                    </p>
+                    <p>
+                        The placements are set by the list's moderation team.
+                    </p>
+                    <p>
+                        Verifications video proofs have to be uploaded To YouTube
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed, up to 240fps)
+                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed, up to 360hz)
                     </p>
                     <p>
                         In the description of the verification video you need to include: attempts, FPS, CBF on/off, (ID If uploaded)
@@ -109,7 +125,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count. Clickbots do not count as well
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -125,22 +141,6 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                    <h3>Terms and Rules</h3>
-                    <p>
-                        In order to send a level to the list, you need to be the verifier of the level.
-                    </p>
-                    <p>
-                        The level must use ALL gamemodes.
-                    </p>
-                    <p>
-                        Level must have at least 10 seconds of gameplay, but it doesnt need to be rated!
-                    </p>
-                    <p>
-                        The placements are set by the list's moderation team.
-                    </p>
-                    <p>
-                        Verifications video proofs have to be uploaded To YouTube
                     </p>
                 </div>
             </div>
