@@ -8,6 +8,11 @@
     "percentToQualify": 75,
     "password": "Free Copy",
     "records": [
-        
+        {
+            "user": "Fluxite",
+            "link": "https://youtu.be/WT0tgxmJfdc?si=Zbi83HjzwkzbxuDy",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
