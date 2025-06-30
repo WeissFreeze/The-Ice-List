@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=BNSXmenD99U",
             "percent": 100,
             "hz": "165 (CBF)"
-        }
+        },
+                     {
+            "user": "HexzGMD",
+            "link": "https://www.youtube.com/watch?v=KAUjNVO1VWc",
+            "percent": 100,
+            "hz": "360"
+                     }
     ]
 }
