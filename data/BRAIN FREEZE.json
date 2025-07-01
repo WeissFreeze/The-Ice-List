@@ -8,6 +8,11 @@
     "percentToQualify": 75,
     "password": "Free Copy",
     "records": [
-        
+                {
+            "user": "HexzGMD",
+            "link": "https://www.youtube.com/watch?v=8AgR1r1maJQ",
+            "percent": 100,
+            "hz": "360"
+        }
     ]
 }
