@@ -37,7 +37,12 @@
             "link": "https://www.youtube.com/watch?v=MV7dlDqTAZg",
             "percent": 100,
             "hz": "360"
-        }
-        
+        },
+                {
+            "user": "k08el",
+            "link": "https://www.youtube.com/watch?v=YZVjhbz8CDo",
+            "percent": 100,
+            "hz": "240"
+        },
     ]
 }
