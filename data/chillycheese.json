@@ -43,7 +43,13 @@
             "link": "https://www.youtube.com/watch?v=bPx6uKPasqA",
             "percent": 100,
             "hz": "165"
-                     }
+                     },
+                        {
+            "user": "Schattenpelzgd",
+            "link": "https://youtu.be/vS-8maNY9a8?is=bTtkFAsNTo2v-Whf",
+            "percent": 100,
+            "hz": "120"
+        }
 
     ]
 }
